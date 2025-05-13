@@ -1,2 +1,2 @@
-# Glosario_Santiago_Ordo-ez_3147235
+# Glosario_Santiago_Ordonez_3147235
 Trabajo de glosario html 
